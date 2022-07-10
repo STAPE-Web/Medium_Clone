@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/sanityyoutube/node_modules
 /.pnp
 .pnp.js
 
